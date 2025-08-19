@@ -16,13 +16,17 @@ A responsive and interactive image gallery using HTML, CSS and JavaScript.
 
 ## Technologies
 - HTML5
-- CSS3 (Flexbox, transitions, media queries)
-- JavaScript (DOM manipulation)
+- CSS3
+- JavaScript
 
-## Demo
-*Coming soon*
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/CodeAlpha_LandingPage.git
+2. Open `index.html` in your browser
 
-## Connect with me
-- Mustapha Akbi
-- GitHub: [theBestYouCanGet](https://github.com/theBestYouCanGet)
-- LinkedIn: [Mustapha Akbi](https://www.linkedin.com/in/mustapha-akbi)
+##  Author
+
+**Akbi Mustapha**  
+[LinkedIn](https://linkedin.com/in/mustapha-akbi) • [GitHub](https://github.com/theBestYouCanGet)
+
